@@ -67,4 +67,4 @@ With **PasswordManager**, organizations can **enhance security, streamline acces
 ## Screenshots
 
 ### 1. Main Screen
-![Main Screen](resources\Mainscreen.png)
+![Main Screen](./resources/Mainscreen.png)

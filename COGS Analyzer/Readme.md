@@ -80,4 +80,4 @@ COGS Analyzer is a **game-changer** for **US importers** handling international 
 
 ## Screenshots
 ### 1. COGS Analysis
-![COGS Analysis](resources\COGSAnalysis.png)
+![COGS Analysis](./resources/COGSAnalysis.png)

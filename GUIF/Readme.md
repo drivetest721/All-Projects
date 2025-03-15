@@ -84,10 +84,10 @@ Oscilloscope data is often noisy, requiring advanced filtering algorithms to ext
 
 ## Screenshots
 ### 1. Main Screen
-![Main Screen](resources/MainScreen.png)
+![Main Screen](./resources/MainScreen.png)
 
 ### 2. Charts
-![Main Screen](resources\Charts.png)
+![Main Screen](./resources/Charts.png)
 
 ## Contact
 For inquiries or collaborations, reach out via email or open an issue on GitHub.

@@ -72,12 +72,12 @@ In today's data-driven world, businesses generate vast amounts of data, making t
 ## **Screenshots & Reports**
 
 ### 1. Finance Dashboard
-![Finance Dashboard](resources\FinaceDashboard1.png)
+![Finance Dashboard](./resources/FinaceDashboard1.png)
 
-![Finance Dashboard](resources\FinaceDashboard2.png)
+![Finance Dashboard](./resources/FinaceDashboard2.png)
 
 ### 2. Import-Export-Manufacturing Dashboard
-![Dashboard](resources\Import-Export-Manufacture.png)
+![Dashboard](./resources/Import-Export-Manufacture.png)
 
 ## **Conclusion**
 Power BI empowers organizations with **real-time analytics, interactive reports, and AI-powered insights**. Whether it’s **financial forecasting, supply chain management, or clinical trial monitoring**, Power BI helps businesses turn raw data into **actionable intelligence**.

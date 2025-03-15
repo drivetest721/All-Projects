@@ -68,13 +68,13 @@ By analyzing this data, businesses can **optimize workflows, reduce inefficienci
 
 ## Screenshots
 ### 1. IdealTime Popup
-![IdealTime Popup](resources\PopupWindow.png)
+![IdealTime Popup](./resources/PopupWindow.png)
 
 ### 2. Dashboard
-![Dashboard](resources\Dashboard1.png)
+![Dashboard](./resources/Dashboard1.png)
 
-![Dashboard](resources\Dashboard2.png)
+![Dashboard](./resources/Dashboard2.png)
 
-![Dashboard](resources\Dashboard3.png)
+![Dashboard](./resources/Dashboard3.png)
 
-![Dashboard](resources\Dashboard4.png)
+![Dashboard](./resources/Dashboard4.png)
